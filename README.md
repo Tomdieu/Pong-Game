@@ -1,5 +1,15 @@
-#Pong Game
+## Pong Game
 
-If You Not Yet Have Pyame Install in Your Computer
-intall it using : pip install pygame
+# How to install pygame
+If you don't have `pygame` Install in Your Computer
+install pygame with the command
+
+```
+  pip install pygame
+```
+
+How to run
+ ```
+  python main.py
+ ```
 
